@@ -1,0 +1,5 @@
+/home/alexandre/Etudes/5-Automne_2020/420-0SW-SW_programmation_jeux_et_multimedia/Laboratoires/Lab_04/ui_code_life_bar/csharp/start/.mono/temp/bin/Debug/Code a life bar (start).dll
+/home/alexandre/Etudes/5-Automne_2020/420-0SW-SW_programmation_jeux_et_multimedia/Laboratoires/Lab_04/ui_code_life_bar/csharp/start/.mono/temp/bin/Debug/Code a life bar (start).pdb
+/home/alexandre/Etudes/5-Automne_2020/420-0SW-SW_programmation_jeux_et_multimedia/Laboratoires/Lab_04/ui_code_life_bar/csharp/start/.mono/temp/obj/Debug/Code a life bar (start).csprojAssemblyReference.cache
+/home/alexandre/Etudes/5-Automne_2020/420-0SW-SW_programmation_jeux_et_multimedia/Laboratoires/Lab_04/ui_code_life_bar/csharp/start/.mono/temp/obj/Debug/Code a life bar (start).dll
+/home/alexandre/Etudes/5-Automne_2020/420-0SW-SW_programmation_jeux_et_multimedia/Laboratoires/Lab_04/ui_code_life_bar/csharp/start/.mono/temp/obj/Debug/Code a life bar (start).pdb
